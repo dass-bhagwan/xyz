@@ -1,0 +1,6 @@
+
+
+1) collect data point from existing data sheets to create new data sheets
+2) transfer the datapoints into a format allowing to enter product information in our web produect.
+3) gathers and analyzes data on the web to achieve consistence and eliminate failures
+4) create commom description for IBN product.
